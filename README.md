@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColeCod3
-- 👀 I’m interested in ... breaking into the tech industry
-- 🌱 I’m currently learning ... DP-900 Microsoft, Pyth & SQL, Technical Writing
-- 💞️ I’m looking to collaborate ... with people who are also on a journey of learning, and those who would like to teach
+- 👀 I’m interested in ... contributing to API Docs and other Dev Docs
+- 🌱 I’m currently learning ... DP-900, Py, Markdown & Git 
+- 💞️ I’m looking to collaborate ... with developers who need development doc contributions
 - 📫 How to reach me ... colec.writes@gmail.cpm
 
 <!---
